@@ -58,4 +58,5 @@ To do:
 - This project was inspired by the wonderful teachings of Sarah Proctor and Austin Walker.
 - Appreciative of mentors
 - Many thanks to the collaborative efforts of each member of Code Crak
+- Structure of ReadMe from the following link: https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
 
