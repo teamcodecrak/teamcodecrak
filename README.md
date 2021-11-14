@@ -31,6 +31,8 @@ List the ready features here:
 
 ## Screenshots
 ![Screen Shot 2021-11-12 at 10 03 00 AM](https://user-images.githubusercontent.com/88990992/141697441-02bd2003-4497-4969-9cf2-ea6d16fa749b.png)
+<img width="1042" alt="Screen Shot 2021-11-08 at 4 24 34 PM" src="https://user-images.githubusercontent.com/88990992/141697775-d6a0c2aa-55a7-46b8-be04-ecd6636da962.png">
+
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
