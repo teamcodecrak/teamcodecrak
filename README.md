@@ -1,5 +1,5 @@
-# TeamCodeCrak
-> Relase the CRAKin
+# Release the CRAKin
+> a product of TeamCodeCrak
 
 ## Table of Contents
 * [General Info](#general-information)
