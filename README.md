@@ -47,6 +47,8 @@ Completed:
 - User stories
 - Wireframe and user stories collaboration
 - Green light to start coding
+- Rails-react app
+- 1st pull request with home controller, app page, header/footer components
 
 
 ## Room for Improvement
