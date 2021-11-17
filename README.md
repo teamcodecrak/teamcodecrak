@@ -1,6 +1,7 @@
 # Release the CRAKin
 > a product of TeamCodeCrak
 
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -9,7 +10,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-
 
 
 ## General Information
@@ -24,10 +24,12 @@
 - VS Code
 - Atom
 
+
 ## Features
 List the ready features here:
 - API query
 - React carousel
+
 
 ## Screenshots
 ![Screen Shot 2021-11-12 at 10 03 00 AM](https://user-images.githubusercontent.com/88990992/141697441-02bd2003-4497-4969-9cf2-ea6d16fa749b.png)
@@ -40,6 +42,12 @@ List the ready features here:
 ## Project Status
 Project is: _in progress_
 
+Completed:
+- db schema
+- User stories
+- Wireframe and user stories collaboration
+- Green light to start coding
+
 
 ## Room for Improvement
 
@@ -47,10 +55,8 @@ Room for improvement:
 - TBD
 
 To do:
-- Complete db schema
-- Update user stories
-- Ensure wireframe and user stories collaborate
-- Get the green light to start coding
+- Page setup in React
+- Update trello to match steps taken for user stories
 - Utilize mentorship with coding process
 
 
